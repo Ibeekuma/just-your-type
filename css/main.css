@@ -1,0 +1,20 @@
+html {
+  font-family: Righteous, cursive;
+}
+
+p {
+  font-family: Quintessential, cursive;
+}
+
+.img-flex {
+  display: block;
+  width: 100%;
+}
+
+.card {
+  overflow: hidden;
+  background-color: #d9ccaa;
+  border-radius: 20px;
+  padding: 2rem;
+  text-align: center;
+}
