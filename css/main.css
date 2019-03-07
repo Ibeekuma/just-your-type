@@ -6,11 +6,6 @@ p {
   font-family: Quintessential, cursive;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
-}
-
 .card {
   overflow: hidden;
   background-color: #d9ccaa;
